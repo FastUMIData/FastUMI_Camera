@@ -20,7 +20,7 @@ Without the SDK installed, the scripts and parameter/calibration tools in this r
 
 ### 1.2 System Requirements
 
-- **Operating system**: **Ubuntu 20.04** (the official documentation is based on this version).
+- **Operating system**: **Ubuntu 20.04** 
 
 ### 1.3 Installation Overview
 
